@@ -30,7 +30,8 @@ body {
 .myvideo video{
     z-index: -1;
     overflow: hidden;
-    width: 17%;
+    max-width: 100%;
+    width: 18%;
 }
 .proximamente {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
