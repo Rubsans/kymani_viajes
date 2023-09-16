@@ -1,22 +1,14 @@
 body {
-
     background-color: rgb(245, 239, 239);
-
 }
-
-
 .logo {
     text-align: center;
-
 }
-
 .logo img{
-    width: 250px;
+    width: 10%;
     max-width: 400px;
     margin-top: 1%;
-
 }
-
 .opciones {
     background-color: rgb(44, 34, 34);
     margin-left: 3%;
@@ -26,17 +18,12 @@ body {
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
-
 .opciones a {
-
     text-decoration: none;
     color: rgb(238, 229, 229);
     margin-right: 40px;
     margin-left: 2%;
 }
-
-
 .myvideo {
     text-align: center;
     margin-top: 1%;
@@ -45,19 +32,13 @@ body {
     z-index: -1;
     overflow: hidden;
     width: 17%;
-    
 }
-
 .proximamente {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     margin-top: 15%;
-
 }
-
 .copyRight{
-
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: right;
-    
+    text-align: right; 
 }
